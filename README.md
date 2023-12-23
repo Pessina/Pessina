@@ -21,7 +21,6 @@ Hello there! 👋 I'm Felipe, a passionate and seasoned Software Engineer specia
 - 🌱 I'm constantly learning and staying updated with the latest trends in web and mobile development.
 - 🚀 I thrive in startup environments, contributing to product vision and delivering innovative solutions.
 - 👨‍💻 I'm passionate about tackling new challenges and leveraging my React expertise to build top-notch web applications.
-- 🌐 Seeking opportunities to collaborate with like-minded professionals in web, mobile, or full-stack development.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pessina&theme=github_dark&layout=compact&exclude_repo=cpp)](https://github.com/anuraghazra/github-readme-stats)
 
