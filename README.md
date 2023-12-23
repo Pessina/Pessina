@@ -33,5 +33,5 @@ Hello there! 👋 I'm Felipe, a passionate and seasoned Software Engineer specia
 
 ---
 ### 🔥 &nbsp; My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=luizcartolano2&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Pessina&theme=dark&background=000000)](https://git.io/streak-stats)
 
