@@ -8,10 +8,10 @@ Hello there! 👋 I'm Felipe, a passionate and seasoned Software Engineer specia
 
 🔹 **Technologies I love working with:**
   - TypeScript, React, React Native
-  - NestJs, ExpressJS
-  - Redux, GraphQL, SCSS, Tailwind CSS, Styled Components
-  - Prisma, MySQL, Firebase
-  - Jest, Cypress, Enzyme
+  - NestJs
+  - GraphQL, Tailwind CSS, Styled Components
+  - Prisma, Firebase
+  - Jest, Cypress
 
 🔹 **Current Role:**
   - Software Engineer at Pagoda, contributing to the open-source community and the NEAR protocol.
