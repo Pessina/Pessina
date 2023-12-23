@@ -16,11 +16,6 @@ Hello there! 👋 I'm Felipe, a passionate and seasoned Software Engineer specia
 🔹 **Current Role:**
   - Software Engineer at Pagoda, contributing to the open-source community and the NEAR protocol.
 
-🔹 **Recent Achievements:**
-  - Led a successful refactor of a codebase to optimize state management using React Query and Zustand.
-  - Integrated GraphQL with graphql-codegen for efficient data retrieval and improved developer productivity.
-  - Enhanced test coverage in fast-paced startup environments using Cypress and Jest.
-
 ### More About Me
 
 - 🌱 I'm constantly learning and staying updated with the latest trends in web and mobile development.
@@ -34,6 +29,9 @@ Hello there! 👋 I'm Felipe, a passionate and seasoned Software Engineer specia
 - 💼 LinkedIn: [Felipe Pessina](https://www.linkedin.com/in/felipe-pessina-918baa137/)
 - 🗺️ Based in Amsterdam, North Holland, Netherlands
 
----
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seijihirao&theme=github_dark&layout=compact&exclude_repo=cpp)](https://github.com/anuraghazra/github-readme-stats)
 
-*This README is a brief overview of my professional journey. For more detailed information, check out my LinkedIn profile linked above.*
+---
+### 🔥 &nbsp; My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=luizcartolano2&theme=dark&background=000000)](https://git.io/streak-stats)
+
