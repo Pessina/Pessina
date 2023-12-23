@@ -19,15 +19,11 @@ Hello there! 👋 I'm Felipe, a passionate and seasoned Software Engineer specia
 - ## Projects
 
 ### Amia - Automated Medical Records
-- **Duration**: Jun/2023 - Present
-- **Role**: Back-End/Mobile Developer
-- **Description**: Developed a HIPAA-compliant app to automate the creation of medical records. Used AWS Beanstalk, API Gateway, Lambda, SageMaker, NestJS, Prisma, and React Native.
+- Developed a HIPAA-compliant app to automate the creation of medical records. Used AWS Beanstalk, API Gateway, Lambda, SageMaker, NestJS, Prisma, and React Native.
 - **GitHub Repos**: [Mobile Repo](https://github.com/Pessina/amia_mobile), [Backend Repo](https://github.com/Pessina/amia-be)
 
 ### Hublog - Automated Blog Translation Tool
-- **Duration**: Ago/2023 - Present
-- **Role**: Full-Stack Developer
-- **Description**: Developed 'Hublog', a tool to automate blog translation using ChatGPT, integrating AWS services for scalability.
+- Developed 'Hublog', a tool to automate blog translation using ChatGPT, using AWS serverless services for scalability.
 - **GitHub Repo**: [Hublog Repo](https://github.com/Pessina/hublog)
 
 ### More About Me
