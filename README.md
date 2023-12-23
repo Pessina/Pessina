@@ -29,7 +29,7 @@ Hello there! 👋 I'm Felipe, a passionate and seasoned Software Engineer specia
 - 💼 LinkedIn: [Felipe Pessina](https://www.linkedin.com/in/felipe-pessina-918baa137/)
 - 🗺️ Based in Amsterdam, North Holland, Netherlands
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seijihirao&theme=github_dark&layout=compact&exclude_repo=cpp)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pessina&theme=github_dark&layout=compact&exclude_repo=cpp)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 ### 🔥 &nbsp; My Stats :
