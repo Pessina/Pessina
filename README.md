@@ -16,7 +16,7 @@ Hello there! 👋 I'm Felipe, a passionate and seasoned Software Engineer specia
 🔹 **Current Role:**
   - Software Engineer at Pagoda, contributing to the open-source community and the NEAR protocol.
 
-- ## Projects
+## Projects
 
 ### Amia - Automated Medical Records
 - Developed a HIPAA-compliant app to automate the creation of medical records. Used AWS Beanstalk, API Gateway, Lambda, SageMaker, NestJS, Prisma, and React Native.
