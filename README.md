@@ -26,6 +26,7 @@ Hello there! 👋 I'm Felipe, a passionate and seasoned Software Engineer specia
 - Developed 'Hublog', a tool to automate blog translation using ChatGPT, using AWS serverless services for scalability.
 - **GitHub Repo**: [Hublog Repo](https://github.com/Pessina/hublog)
 
+
 ### More About Me
 
 - 🌱 I'm constantly learning and staying updated with the latest trends in web and mobile development.
