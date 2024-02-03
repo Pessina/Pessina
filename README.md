@@ -4,7 +4,7 @@
 
 Hello there! 👋 I'm Felipe, a passionate and seasoned Software Engineer specializing in frontend development. With a journey that began in 2017, I've developed a knack for creating high-quality, user-centric web and mobile applications. My experience spans exciting startups to industry leaders like YOOX NET-A-PORTER GROUP, where I've refined my skills across various tech stacks.
 
-### What I Do 
+### What I Do
 
 🔹 **Technologies I love working with:**
   - TypeScript, React, React Native
