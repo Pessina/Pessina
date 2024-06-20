@@ -7,7 +7,7 @@ Hello there! 👋 I'm Felipe, a passionate and seasoned Software Engineer specia
 ### What I Do 
 
 🔹 **Technologies I love working with:**
-  - TypeScript, React, React Native
+  - TypeScript, React, Rust
   - NestJs
   - GraphQL, Tailwind CSS, Styled Components
   - Prisma, Firebase
