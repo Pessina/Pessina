@@ -16,9 +16,8 @@ Currently, I am part of the Emerging Tech team at Pagoda, dedicated to improving
 I thrive in innovative environments and have always 𝘄𝗼𝗿𝗸𝗲𝗱 𝗿𝗲𝗺𝗼𝘁𝗲𝗹𝘆, using 𝗔𝗜 tools to boost productivity and maintain high standards across diverse projects. I'm passionate about 𝗪𝗲𝗯𝟯 𝗮𝗻𝗱 𝗯𝗹𝗼𝗰𝗸𝗰𝗵𝗮𝗶𝗻, with a strong interest in 𝗭𝗞, 𝗠𝗣𝗖, 𝗮𝗻𝗱 𝗦𝗺𝗮𝗿𝘁 𝗖𝗼𝗻𝘁𝗿𝗮𝗰𝘁𝘀.
 
 ---
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pessina&theme=github_dark&layout=compact&exclude_repo=cpp)](https://github.com/anuraghazra/github-readme-stats)
-
----
 ### 🔥 &nbsp; My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Pessina&theme=dark&background=000000)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pessina&theme=github_dark&layout=compact&exclude_repo=cpp)](https://github.com/anuraghazra/github-readme-stats)
 
