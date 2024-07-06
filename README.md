@@ -2,35 +2,18 @@
 <p align="center">
 <a href="https://www.linkedin.com/in/felipe-pessina-918baa137/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
 
-Hello there! 👋 I'm Felipe, a passionate and seasoned Software Engineer specializing in frontend development. With a journey that began in 2017, I've developed a knack for creating high-quality, user-centric web and mobile applications. My experience spans exciting startups to industry leaders like YOOX NET-A-PORTER GROUP, where I've refined my skills across various tech stacks.
+With 𝟳 𝘆𝗲𝗮𝗿𝘀 𝗼𝗳 𝗲𝘅𝗽𝗲𝗿𝗶𝗲𝗻𝗰𝗲 𝗶𝗻 𝗦𝗼𝗳𝘁𝘄𝗮𝗿𝗲 𝗘𝗻𝗴𝗶𝗻𝗲𝗲𝗿𝗶𝗻𝗴, I specialize in 𝗧𝘆𝗽𝗲𝗦𝗰𝗿𝗶𝗽𝘁 𝗮𝗻𝗱 𝗥𝗲𝗮𝗰𝘁, crafting mobile-friendly, user-centric web applications. Throughout my career, I've had the privilege of working on 𝗢𝗽𝗲𝗻 𝗦𝗼𝘂𝗿𝗰𝗲 𝗣𝗿𝗼𝗷𝗲𝗰𝘁𝘀 at Pagoda, a key player in the 𝗡𝗘𝗔𝗥 𝗲𝗰𝗼𝘀𝘆𝘀𝘁𝗲𝗺 and one of the 𝗹𝗲𝗮𝗱𝗶𝗻𝗴 𝗯𝗹𝗼𝗰𝗸𝗰𝗵𝗮𝗶𝗻𝘀, as well as playing pivotal roles in small, agile 𝘀𝘁𝗮𝗿𝘁𝘂𝗽 𝘁𝗲𝗮𝗺𝘀.
 
-### What I Do 
+Currently, I am part of the Emerging Tech team at Pagoda, dedicated to improving Fast Auth Signer, a wallet that enables email-based NEAR account creation and recovery using 𝗠𝗣𝗖 technology, and Chain Signatures, which provides a seamless multi-chain asset management and transaction signing experience using 𝗦𝗺𝗮𝗿𝘁 𝗖𝗼𝗻𝘁𝗿𝗮𝗰𝘁𝘀.
 
-🔹 **Technologies I love working with:**
-  - TypeScript, React, Rust
-  - NestJs
-  - GraphQL, Tailwind CSS, Styled Components
-  - Prisma, Firebase
-  - Jest, Cypress
+## My core skills include:
 
-🔹 **Current Role:**
-  - Software Engineer at Pagoda, contributing to the open-source community and the NEAR protocol.
+- 𝗙𝗿𝗼𝗻𝘁𝗲𝗻𝗱: React, TypeScript, GraphQL, Tailwind CSS, Ethers
+- 𝗕𝗮𝗰𝗸𝗲𝗻𝗱: NestJs, Prisma, MySQL, Firebase, AWS
+- 𝗧𝗲𝘀𝘁𝗶𝗻𝗴: Jest, Playwright
+- 𝗜𝗻𝘁𝗲𝗿𝗲𝘀𝘁𝗲𝗱: Web3, Blockchain, ZK, MPC, Smart Contracts
 
-## Projects
-
-### Amia - Automated Medical Records
-- Developed a HIPAA-compliant app to automate the creation of medical records. Used AWS Beanstalk, API Gateway, Lambda, SageMaker, NestJS, Prisma, and React Native.
-- **GitHub Repos**: [Mobile Repo](https://github.com/Pessina/amia_mobile), [Backend Repo](https://github.com/Pessina/amia-be)
-
-### Hublog - Automated Blog Translation Tool
-- Developed 'Hublog', a tool to automate blog translation using ChatGPT, using AWS serverless services for scalability.
-- **GitHub Repo**: [Hublog Repo](https://github.com/Pessina/hublog)
-
-### More About Me
-
-- 🌱 I'm constantly learning and staying updated with the latest trends in web and mobile development.
-- 🚀 I thrive in startup environments, contributing to product vision and delivering innovative solutions.
-- 👨‍💻 I'm passionate about tackling new challenges and leveraging my React expertise to build top-notch web applications.
+I thrive in innovative environments and have always 𝘄𝗼𝗿𝗸𝗲𝗱 𝗿𝗲𝗺𝗼𝘁𝗲𝗹𝘆, using 𝗔𝗜 tools to boost productivity and maintain high standards across diverse projects. I'm passionate about 𝗪𝗲𝗯𝟯 𝗮𝗻𝗱 𝗯𝗹𝗼𝗰𝗸𝗰𝗵𝗮𝗶𝗻, with a strong interest in 𝗭𝗞, 𝗠𝗣𝗖, 𝗮𝗻𝗱 𝗦𝗺𝗮𝗿𝘁 𝗖𝗼𝗻𝘁𝗿𝗮𝗰𝘁𝘀.
 
 ---
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pessina&theme=github_dark&layout=compact&exclude_repo=cpp)](https://github.com/anuraghazra/github-readme-stats)
