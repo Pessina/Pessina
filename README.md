@@ -1,6 +1,4 @@
 <p align="center"><img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/></p>
-<p align="center">
-<a href="https://www.linkedin.com/in/felipe-pessina-918baa137/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
 
 With 𝟳 𝘆𝗲𝗮𝗿𝘀 𝗼𝗳 𝗲𝘅𝗽𝗲𝗿𝗶𝗲𝗻𝗰𝗲 𝗶𝗻 𝗦𝗼𝗳𝘁𝘄𝗮𝗿𝗲 𝗘𝗻𝗴𝗶𝗻𝗲𝗲𝗿𝗶𝗻𝗴, I specialize in 𝗧𝘆𝗽𝗲𝗦𝗰𝗿𝗶𝗽𝘁 𝗮𝗻𝗱 𝗥𝗲𝗮𝗰𝘁, crafting mobile-friendly, user-centric web applications. Throughout my career, I've had the privilege of working on 𝗢𝗽𝗲𝗻 𝗦𝗼𝘂𝗿𝗰𝗲 𝗣𝗿𝗼𝗷𝗲𝗰𝘁𝘀 at Pagoda, a key player in the 𝗡𝗘𝗔𝗥 𝗲𝗰𝗼𝘀𝘆𝘀𝘁𝗲𝗺 and one of the 𝗹𝗲𝗮𝗱𝗶𝗻𝗴 𝗯𝗹𝗼𝗰𝗸𝗰𝗵𝗮𝗶𝗻𝘀, as well as playing pivotal roles in small, agile 𝘀𝘁𝗮𝗿𝘁𝘂𝗽 𝘁𝗲𝗮𝗺𝘀.
 
